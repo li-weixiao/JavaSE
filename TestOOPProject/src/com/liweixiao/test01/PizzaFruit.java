@@ -3,7 +3,6 @@ package com.liweixiao.test01;
 /**
  * @author:liweixiao
  * @date:2022/9/2
- * @version:v1.0
  * @description:水果披萨类
  */
 public class PizzaFruit extends Pizza{
